@@ -35,8 +35,8 @@ To install and set up SilentSpeak on your local machine, follow these steps:
 1. Clone the repository to your local system:
 
   ```bash
-   git clone
-   cd Innovative-project-3
+   git clone https://github.com/ShamimAnsari4/SlientSpeak.git
+   cd SlientSpeak
   ```
 
 2. Install the following dependencies
