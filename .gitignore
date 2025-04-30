@@ -1,0 +1,12 @@
+
+myenv/
+venv/
+
+.DS_Store
+.vscode/
+
+__pycache__/
+mediapipe_env/
+
+
+
